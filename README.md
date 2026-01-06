@@ -1,5 +1,3 @@
-<img width="401" height="893" alt="image" src="https://github.com/user-attachments/assets/a534e4be-ae78-4b02-9cc9-4ac65c02e45f" /><img width="401" height="893" alt="image" src="https://github.com/user-attachments/assets/e3766b26-1965-4ff4-a9e2-09c0d27a6075" /><img width="401" height="893" alt="image" src="https://github.com/user-attachments/assets/43c8d76d-d79e-478b-92ba-311c904d99d7" /># Valhalla Frontend
-
 Aplicativo mobile desenvolvido em React Native como parte de um projeto SaaS em parceria com uma barbearia.
 
 O aplicativo será responsável pela interface utilizada pelos usuários para gerenciamento de serviços, agenda e dados operacionais do negócio.
