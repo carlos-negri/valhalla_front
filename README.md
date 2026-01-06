@@ -36,7 +36,7 @@ Criar um aplicativo mobile integrado a um backend próprio, simulando um produto
 
 <img width="401" height="893" alt="image" src="https://github.com/user-attachments/assets/8b565e6d-b6a9-4308-aaaa-e0d8d71e9895" />
 
-5. Tela de agendamento de horário com widget nativo para escolha de data e hora
+5. Tela de agendamento de horário com widget nativo para escolha de data
 
 <img width="401" height="893" alt="image" src="https://github.com/user-attachments/assets/c9d6aa7d-e61f-444e-8941-24a3a08e5aee" />
 
